@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T09:49:16.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Qsh3tG8FsMgu10RAB3gX" version="21.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-05T09:58:40.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CybLRKAs66fSTA5JW5dl" version="21.2.3" type="github" pages="11">
   <diagram name="1. User authentication" id="xGvULkPdbwHPbMbPX9kk">
-    <mxGraphModel dx="3221" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4247" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ymptvod_LVOYi021aetq-1" value="Login &amp;amp; forgot PW" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ymptvod_LVOYi021aetq-1" value="Login &amp;amp; forgot PW" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="750" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-2" value="User" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-1">
+        <mxCell id="ymptvod_LVOYi021aetq-2" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-1" vertex="1">
           <mxGeometry y="20" width="380" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-4" target="ymptvod_LVOYi021aetq-8">
+        <mxCell id="ymptvod_LVOYi021aetq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-4" target="ymptvod_LVOYi021aetq-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="111" y="34" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-5" value="2. Fill in email address and password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-5" value="2. Fill in email address and password" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="200" y="144" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-8" target="ymptvod_LVOYi021aetq-5">
+        <mxCell id="ymptvod_LVOYi021aetq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-8" target="ymptvod_LVOYi021aetq-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-8">
+        <mxCell id="ymptvod_LVOYi021aetq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-8" value="1.&amp;nbsp;Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-8" value="1.&amp;nbsp;Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="91" y="84" width="78" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-9" value="1.1Forgot PW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-9" value="1.1Forgot PW" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="70" y="354" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-10" value="1.3.Fill PW and&amp;nbsp;&lt;br&gt;Press the 「パスワード再発行」 button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-10" value="1.3.Fill PW and&amp;nbsp;&lt;br&gt;Press the 「パスワード再発行」 button" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="70" y="450" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-12" target="ymptvod_LVOYi021aetq-8">
+        <mxCell id="ymptvod_LVOYi021aetq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="ymptvod_LVOYi021aetq-2" source="ymptvod_LVOYi021aetq-12" target="ymptvod_LVOYi021aetq-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="690" />
@@ -44,40 +44,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-12" value="1.6. Check new PW in email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-2">
+        <mxCell id="ymptvod_LVOYi021aetq-12" value="1.6. Check new PW in email" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-2" vertex="1">
           <mxGeometry x="230" y="660" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-5" target="ymptvod_LVOYi021aetq-16">
+        <mxCell id="ymptvod_LVOYi021aetq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-5" target="ymptvod_LVOYi021aetq-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-20" target="ymptvod_LVOYi021aetq-5">
+        <mxCell id="ymptvod_LVOYi021aetq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-20" target="ymptvod_LVOYi021aetq-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-15" value="System" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-1">
+        <mxCell id="ymptvod_LVOYi021aetq-15" value="System" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-1" vertex="1">
           <mxGeometry x="380" y="20" width="370" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-16" value="3. Email &amp;amp; PW valid?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-16" value="3. Email &amp;amp; PW valid?" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="143" y="148" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-17" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="173" y="211" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-19" target="ymptvod_LVOYi021aetq-25">
+        <mxCell id="ymptvod_LVOYi021aetq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-19" target="ymptvod_LVOYi021aetq-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-19" value="4. Display the top page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-19" value="4. Display the top page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="211" y="277" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-20" value="3.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-20" value="3.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="53" y="277" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-16" target="ymptvod_LVOYi021aetq-17">
+        <mxCell id="ymptvod_LVOYi021aetq-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-16" target="ymptvod_LVOYi021aetq-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="196.99999999999977" y="188" as="sourcePoint" />
             <mxPoint x="202.5" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-22" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-17" target="ymptvod_LVOYi021aetq-19">
+        <mxCell id="ymptvod_LVOYi021aetq-22" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-17" target="ymptvod_LVOYi021aetq-19" edge="1">
           <mxGeometry x="-0.2692" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="203" y="191" as="sourcePoint" />
             <mxPoint x="203" y="221" as="targetPoint" />
@@ -87,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-23" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-17" target="ymptvod_LVOYi021aetq-20">
+        <mxCell id="ymptvod_LVOYi021aetq-23" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-17" target="ymptvod_LVOYi021aetq-20" edge="1">
           <mxGeometry x="-0.2075" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="203" y="191" as="sourcePoint" />
             <mxPoint x="203" y="221" as="targetPoint" />
@@ -97,36 +97,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-24" value="1.2. Display the reset PW page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-24" value="1.2. Display the reset PW page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="67.5" y="354" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-25" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-25" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="256" y="424" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-26" value="1.4. Email valid?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-26" value="1.4. Email valid?" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="129" y="450" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-27" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="160" y="509" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-28" value="1.5.Send new PW to email and display&amp;nbsp;Forgot Password Confirmation page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-28" value="1.5.Send new PW to email and display&amp;nbsp;Forgot Password Confirmation page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="198" y="575" width="142" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-30">
+        <mxCell id="ymptvod_LVOYi021aetq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-250" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-30" value="1.4.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-15">
+        <mxCell id="ymptvod_LVOYi021aetq-30" value="1.4.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-15" vertex="1">
           <mxGeometry x="40" y="575" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-26" target="ymptvod_LVOYi021aetq-27">
+        <mxCell id="ymptvod_LVOYi021aetq-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-26" target="ymptvod_LVOYi021aetq-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="183.99999999999977" y="486" as="sourcePoint" />
             <mxPoint x="189.5" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-32" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-27" target="ymptvod_LVOYi021aetq-28">
+        <mxCell id="ymptvod_LVOYi021aetq-32" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-27" target="ymptvod_LVOYi021aetq-28" edge="1">
           <mxGeometry x="-0.2692" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="489" as="sourcePoint" />
             <mxPoint x="190" y="519" as="targetPoint" />
@@ -136,7 +136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-33" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-27" target="ymptvod_LVOYi021aetq-30">
+        <mxCell id="ymptvod_LVOYi021aetq-33" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-15" source="ymptvod_LVOYi021aetq-27" target="ymptvod_LVOYi021aetq-30" edge="1">
           <mxGeometry x="-0.2075" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="489" as="sourcePoint" />
             <mxPoint x="190" y="519" as="targetPoint" />
@@ -146,10 +146,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-9" target="ymptvod_LVOYi021aetq-24">
+        <mxCell id="ymptvod_LVOYi021aetq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-9" target="ymptvod_LVOYi021aetq-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-24" target="ymptvod_LVOYi021aetq-10">
+        <mxCell id="ymptvod_LVOYi021aetq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-24" target="ymptvod_LVOYi021aetq-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="132" y="444" as="targetPoint" />
             <Array as="points">
@@ -158,77 +158,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-10" target="ymptvod_LVOYi021aetq-26">
+        <mxCell id="ymptvod_LVOYi021aetq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-10" target="ymptvod_LVOYi021aetq-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-28" target="ymptvod_LVOYi021aetq-12">
+        <mxCell id="ymptvod_LVOYi021aetq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-1" source="ymptvod_LVOYi021aetq-28" target="ymptvod_LVOYi021aetq-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="649" y="704" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-38" value="Registration function" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ymptvod_LVOYi021aetq-38" value="Registration function" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-782" y="30" width="750" height="1460" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-39" value="User" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-38">
+        <mxCell id="ymptvod_LVOYi021aetq-39" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-38" vertex="1">
           <mxGeometry y="20" width="380" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-40" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-40" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="145" y="27" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-41" value="1.On the login screen,&lt;br&gt;Press the [登録] button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-41" value="1.On the login screen,&lt;br&gt;Press the [登録] button" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="100" y="86" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-42" value="3. Fill email address and press the [メールへ本登録リンク送信​] button&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; background-color: rgb(237, 235, 233); font-size: 10pt; line-height: 0px; font-family: &amp;quot;BIZ UDPゴシック&amp;quot;, &amp;quot;BIZ UDPゴシック_EmbeddedFont&amp;quot;, &amp;quot;BIZ UDPゴシック_MSFontService&amp;quot;, sans-serif; color: rgb(255, 255, 255);&quot; class=&quot;EOP SCXP18889951 BCX8&quot;&gt;​&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-42" value="3. Fill email address and press the [メールへ本登録リンク送信​] button&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; background-color: rgb(237, 235, 233); font-size: 10pt; line-height: 0px; font-family: &amp;quot;BIZ UDPゴシック&amp;quot;, &amp;quot;BIZ UDPゴシック_EmbeddedFont&amp;quot;, &amp;quot;BIZ UDPゴシック_MSFontService&amp;quot;, sans-serif; color: rgb(255, 255, 255);&quot; class=&quot;EOP SCXP18889951 BCX8&quot;&gt;​&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="101" y="169" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-43" value="6. Click the registration link in e-mail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-43" value="6. Click the registration link in e-mail" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="100" y="402" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-40" target="ymptvod_LVOYi021aetq-41">
+        <mxCell id="ymptvod_LVOYi021aetq-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-40" target="ymptvod_LVOYi021aetq-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="82" as="sourcePoint" />
             <mxPoint x="220" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-45" value="8. Fill email address and press the [プロフィール入力へ​​] button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-45" value="8. Fill email address and press the [プロフィール入力へ​​] button" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="101" y="484.5" width="120" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-47" target="ymptvod_LVOYi021aetq-49">
+        <mxCell id="ymptvod_LVOYi021aetq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-47" target="ymptvod_LVOYi021aetq-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-47" value="11.&amp;nbsp;Fill in the input field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-47" value="11.&amp;nbsp;Fill in the input field" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="100" y="702" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-49" target="ymptvod_LVOYi021aetq-50">
+        <mxCell id="ymptvod_LVOYi021aetq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-39" source="ymptvod_LVOYi021aetq-49" target="ymptvod_LVOYi021aetq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-49" value="12. Check on Administrator permission request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-49" value="12. Check on Administrator permission request" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="101" y="762" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-39">
+        <mxCell id="ymptvod_LVOYi021aetq-50" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-39" vertex="1">
           <mxGeometry x="262" y="762" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-41" target="ymptvod_LVOYi021aetq-64">
+        <mxCell id="ymptvod_LVOYi021aetq-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-41" target="ymptvod_LVOYi021aetq-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="92" as="sourcePoint" />
             <mxPoint x="170" y="122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-43" target="ymptvod_LVOYi021aetq-69">
+        <mxCell id="ymptvod_LVOYi021aetq-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-43" target="ymptvod_LVOYi021aetq-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="173" as="sourcePoint" />
             <mxPoint x="439" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-45" target="ymptvod_LVOYi021aetq-73">
+        <mxCell id="ymptvod_LVOYi021aetq-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-45" target="ymptvod_LVOYi021aetq-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="533" as="sourcePoint" />
             <mxPoint x="440" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-76" target="ymptvod_LVOYi021aetq-45">
+        <mxCell id="ymptvod_LVOYi021aetq-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-76" target="ymptvod_LVOYi021aetq-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349" y="669" as="sourcePoint" />
             <mxPoint x="100" y="533" as="targetPoint" />
@@ -238,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-67" target="ymptvod_LVOYi021aetq-43">
+        <mxCell id="ymptvod_LVOYi021aetq-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-67" target="ymptvod_LVOYi021aetq-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="352" as="sourcePoint" />
             <mxPoint x="577" y="327" as="targetPoint" />
@@ -248,7 +248,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-83" target="ymptvod_LVOYi021aetq-47">
+        <mxCell id="ymptvod_LVOYi021aetq-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-83" target="ymptvod_LVOYi021aetq-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="878" as="sourcePoint" />
             <mxPoint x="90" y="742" as="targetPoint" />
@@ -258,7 +258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-69" target="ymptvod_LVOYi021aetq-45">
+        <mxCell id="ymptvod_LVOYi021aetq-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-69" target="ymptvod_LVOYi021aetq-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="123" as="sourcePoint" />
             <mxPoint x="170" y="153" as="targetPoint" />
@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-75" target="ymptvod_LVOYi021aetq-47">
+        <mxCell id="ymptvod_LVOYi021aetq-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-75" target="ymptvod_LVOYi021aetq-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="565" y="689" as="sourcePoint" />
             <mxPoint x="230" y="740" as="targetPoint" />
@@ -279,7 +279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-64" target="ymptvod_LVOYi021aetq-42">
+        <mxCell id="ymptvod_LVOYi021aetq-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-64" target="ymptvod_LVOYi021aetq-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="207" y="92" as="sourcePoint" />
             <mxPoint x="207" y="122" as="targetPoint" />
@@ -289,10 +289,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-42" target="ymptvod_LVOYi021aetq-65">
+        <mxCell id="ymptvod_LVOYi021aetq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-42" target="ymptvod_LVOYi021aetq-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-61" value="OFF" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-50" target="ymptvod_LVOYi021aetq-80">
+        <mxCell id="ymptvod_LVOYi021aetq-61" value="OFF" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-50" target="ymptvod_LVOYi021aetq-80" edge="1">
           <mxGeometry x="-0.0007" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="1064" />
@@ -301,7 +301,7 @@
             <mxPoint x="500" y="1064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-62" value="ON" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-50" target="ymptvod_LVOYi021aetq-88">
+        <mxCell id="ymptvod_LVOYi021aetq-62" value="ON" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-50" target="ymptvod_LVOYi021aetq-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="754" />
@@ -309,34 +309,34 @@
             <mxPoint x="412" y="754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-63" value="Systerm" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-38">
+        <mxCell id="ymptvod_LVOYi021aetq-63" value="Systerm" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-38" vertex="1">
           <mxGeometry x="380" y="20" width="370" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-64" value="2.Display the&lt;br&gt;register page&amp;nbsp;&lt;br&gt;（For Input email）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-64" value="2.Display the&lt;br&gt;register page&amp;nbsp;&lt;br&gt;（For Input email）" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="123" y="82" width="157" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-65" value="4. Confirm the existence of your email address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-65" value="4. Confirm the existence of your email address" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="127" y="179" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-66" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-66" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="163.5" y="249" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-67" value="5. Send registration link to email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-67" value="5. Send registration link to email" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="201.5" y="315" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-68" value="4.1. Show error message [メールアドレスが既に存在します。]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-68" value="4.1. Show error message [メールアドレスが既に存在します。]" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="20" y="289" width="144.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-69" value="7. Display the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;register page&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（For Input password）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-69" value="7. Display the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;register page&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（For Input password）" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="124" y="396" width="131" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.005;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-65" target="ymptvod_LVOYi021aetq-66">
+        <mxCell id="ymptvod_LVOYi021aetq-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.005;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-65" target="ymptvod_LVOYi021aetq-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="187.5" y="230" as="sourcePoint" />
             <mxPoint x="193.5" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-71" value="Yes" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" target="ymptvod_LVOYi021aetq-67">
+        <mxCell id="ymptvod_LVOYi021aetq-71" value="Yes" style="endArrow=classic;html=1;rounded=0;" parent="ymptvod_LVOYi021aetq-63" target="ymptvod_LVOYi021aetq-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="204" y="269" as="sourcePoint" />
             <mxPoint x="193.5" y="259" as="targetPoint" />
@@ -345,7 +345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-72" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-66" target="ymptvod_LVOYi021aetq-68">
+        <mxCell id="ymptvod_LVOYi021aetq-72" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-66" target="ymptvod_LVOYi021aetq-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="193.5" y="229" as="sourcePoint" />
             <mxPoint x="193.5" y="259" as="targetPoint" />
@@ -354,25 +354,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-73" value="9. Password verification that matches the policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-73" value="9. Password verification that matches the policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="123" y="489.5" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-74" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-74" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="164" y="563" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-75" value="10. プロファイル画面開く" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-75" value="10. プロファイル画面開く" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="210" y="614.5" width="102" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-76" value="9.1. Show error message&lt;br&gt;[パスワードは英数字大小と特殊記号含む8文字が必要です。]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-76" value="9.1. Show error message&lt;br&gt;[パスワードは英数字大小と特殊記号含む8文字が必要です。]" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="20" y="600" width="144" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-73" target="ymptvod_LVOYi021aetq-74">
+        <mxCell id="ymptvod_LVOYi021aetq-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-73" target="ymptvod_LVOYi021aetq-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="474" as="sourcePoint" />
             <mxPoint x="194" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-78" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-74" target="ymptvod_LVOYi021aetq-75">
+        <mxCell id="ymptvod_LVOYi021aetq-78" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-74" target="ymptvod_LVOYi021aetq-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="543" as="sourcePoint" />
             <mxPoint x="194" y="573" as="targetPoint" />
@@ -381,7 +381,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-79" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-74" target="ymptvod_LVOYi021aetq-76">
+        <mxCell id="ymptvod_LVOYi021aetq-79" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-74" target="ymptvod_LVOYi021aetq-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="543" as="sourcePoint" />
             <mxPoint x="194" y="573" as="targetPoint" />
@@ -390,25 +390,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-80" value="13. Confirmation of each completed item that meets requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-80" value="13. Confirmation of each completed item that meets requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="140" y="1020" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-81" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-81" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="205" y="1101" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-82" value="14.&amp;nbsp;Registration Successful page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-82" value="14.&amp;nbsp;Registration Successful page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="94" y="1234" width="113" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-83" value="13.1. Show error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-83" value="13.1. Show error message" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="45" y="1167" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-80" target="ymptvod_LVOYi021aetq-81">
+        <mxCell id="ymptvod_LVOYi021aetq-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-80" target="ymptvod_LVOYi021aetq-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="232" y="994" as="sourcePoint" />
             <mxPoint x="232" y="1023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-85" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.474;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-81" target="ymptvod_LVOYi021aetq-103">
+        <mxCell id="ymptvod_LVOYi021aetq-85" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.474;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-81" target="ymptvod_LVOYi021aetq-103" edge="1">
           <mxGeometry x="-0.3934" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="1081" as="sourcePoint" />
             <mxPoint x="302" y="1185" as="targetPoint" />
@@ -418,7 +418,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-86" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-81" target="ymptvod_LVOYi021aetq-83">
+        <mxCell id="ymptvod_LVOYi021aetq-86" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-81" target="ymptvod_LVOYi021aetq-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="1081" as="sourcePoint" />
             <mxPoint x="235" y="1111" as="targetPoint" />
@@ -427,13 +427,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-87" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-87" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="213" y="1384" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-88" value="12.1.Confirmation of each completed item that meets requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-88" value="12.1.Confirmation of each completed item that meets requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="37" y="700" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-89" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.059;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-90" target="ymptvod_LVOYi021aetq-83">
+        <mxCell id="ymptvod_LVOYi021aetq-89" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.059;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-90" target="ymptvod_LVOYi021aetq-83" edge="1">
           <mxGeometry x="-0.0008" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="52" y="811" />
@@ -442,19 +442,19 @@
             <mxPoint x="52" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-90" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-90" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="102" y="791" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-91" value="12.2. Send an email to the office headquarters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-91" value="12.2. Send an email to the office headquarters" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="143" y="836" width="118" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-88" target="ymptvod_LVOYi021aetq-90">
+        <mxCell id="ymptvod_LVOYi021aetq-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-88" target="ymptvod_LVOYi021aetq-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132" y="684" as="sourcePoint" />
             <mxPoint x="132" y="713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-93" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" target="ymptvod_LVOYi021aetq-91">
+        <mxCell id="ymptvod_LVOYi021aetq-93" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" target="ymptvod_LVOYi021aetq-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="141" y="811" as="sourcePoint" />
             <mxPoint x="199" y="836" as="targetPoint" />
@@ -463,111 +463,111 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-94" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-94" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="321.5" y="935" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-96" target="ymptvod_LVOYi021aetq-94">
+        <mxCell id="ymptvod_LVOYi021aetq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-96" target="ymptvod_LVOYi021aetq-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-96" value="12.3. Display a message about the notification that the email has been sent to the offfice headquarters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-96" value="12.3. Display a message about the notification that the email has been sent to the offfice headquarters" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="127" y="910" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-91">
+        <mxCell id="ymptvod_LVOYi021aetq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-91" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="202" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-98" value="15.Reflect the admin side [アカウントの一覧確認​]&lt;br&gt;&amp;nbsp;screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-98" value="15.Reflect the admin side [アカウントの一覧確認​]&lt;br&gt;&amp;nbsp;screen" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="247" y="1234" width="113" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.493;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-103" target="ymptvod_LVOYi021aetq-98">
+        <mxCell id="ymptvod_LVOYi021aetq-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.493;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-103" target="ymptvod_LVOYi021aetq-98" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="303" y="1188" as="sourcePoint" />
             <mxPoint x="355" y="1194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.487;exitY=0.86;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-103" target="ymptvod_LVOYi021aetq-82">
+        <mxCell id="ymptvod_LVOYi021aetq-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.487;exitY=0.86;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-103" target="ymptvod_LVOYi021aetq-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="303" y="1188" as="sourcePoint" />
             <mxPoint x="314" y="1244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.467;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.485;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-82" target="ymptvod_LVOYi021aetq-105">
+        <mxCell id="ymptvod_LVOYi021aetq-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.467;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.485;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-82" target="ymptvod_LVOYi021aetq-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="125" y="1354" as="sourcePoint" />
             <mxPoint x="228" y="1294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.505;exitY=1.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.485;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-98" target="ymptvod_LVOYi021aetq-105">
+        <mxCell id="ymptvod_LVOYi021aetq-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.505;exitY=1.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.485;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-98" target="ymptvod_LVOYi021aetq-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="157" y="1285" as="sourcePoint" />
             <mxPoint x="315" y="1344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-103" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-103" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="255" y="1182" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-105" target="ymptvod_LVOYi021aetq-87">
+        <mxCell id="ymptvod_LVOYi021aetq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-63" source="ymptvod_LVOYi021aetq-105" target="ymptvod_LVOYi021aetq-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="ymptvod_LVOYi021aetq-63">
+        <mxCell id="ymptvod_LVOYi021aetq-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="ymptvod_LVOYi021aetq-63" vertex="1">
           <mxGeometry x="178" y="1334" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-68" target="ymptvod_LVOYi021aetq-42">
+        <mxCell id="ymptvod_LVOYi021aetq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="ymptvod_LVOYi021aetq-38" source="ymptvod_LVOYi021aetq-68" target="ymptvod_LVOYi021aetq-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-107" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Resend Email Confirmation (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ymptvod_LVOYi021aetq-107" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Resend Email Confirmation (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="828" width="750" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-108" value="User" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-107">
+        <mxCell id="ymptvod_LVOYi021aetq-108" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-107" vertex="1">
           <mxGeometry y="20" width="380" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-109" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="ymptvod_LVOYi021aetq-108">
+        <mxCell id="ymptvod_LVOYi021aetq-109" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="ymptvod_LVOYi021aetq-108" vertex="1">
           <mxGeometry x="115" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-110" value="1. On the login screen, press the [メール認証の再送はこちら]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-108">
+        <mxCell id="ymptvod_LVOYi021aetq-110" value="1. On the login screen, press the [メール認証の再送はこちら]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-108" vertex="1">
           <mxGeometry x="80" y="74" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.456;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-108" source="ymptvod_LVOYi021aetq-109" target="ymptvod_LVOYi021aetq-110">
+        <mxCell id="ymptvod_LVOYi021aetq-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.456;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-108" source="ymptvod_LVOYi021aetq-109" target="ymptvod_LVOYi021aetq-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="100" as="sourcePoint" />
             <mxPoint x="130" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-112" value="3. Fill email address and press the [再送] button​" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-108">
+        <mxCell id="ymptvod_LVOYi021aetq-112" value="3. Fill email address and press the [再送] button​" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-108" vertex="1">
           <mxGeometry x="75" y="200" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-113" value="7. Check in email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-108">
+        <mxCell id="ymptvod_LVOYi021aetq-113" value="7. Check in email" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-108" vertex="1">
           <mxGeometry x="240" y="420" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-114" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="ymptvod_LVOYi021aetq-108">
+        <mxCell id="ymptvod_LVOYi021aetq-114" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="ymptvod_LVOYi021aetq-108" vertex="1">
           <mxGeometry x="285" y="500" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-115" value="System" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-107">
+        <mxCell id="ymptvod_LVOYi021aetq-115" value="System" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-107" vertex="1">
           <mxGeometry x="380" y="20" width="370" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-116" value="2. Display&amp;nbsp;Resend Email Confirmationメール認証&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;再送&lt;/span&gt;&amp;nbsp;page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-115">
+        <mxCell id="ymptvod_LVOYi021aetq-116" value="2. Display&amp;nbsp;Resend Email Confirmationメール認証&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;再送&lt;/span&gt;&amp;nbsp;page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-115" vertex="1">
           <mxGeometry x="116" y="76" width="120" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-117" value="4. Email valid?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-115">
+        <mxCell id="ymptvod_LVOYi021aetq-117" value="4. Email valid?" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-115" vertex="1">
           <mxGeometry x="126" y="214" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-118" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-115">
+        <mxCell id="ymptvod_LVOYi021aetq-118" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-115" vertex="1">
           <mxGeometry x="157" y="283" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-119" value="6. Display&amp;nbsp;&lt;ul style=&quot;border-color: var(--border-color); margin: 0px; padding: 0px; box-sizing: border-box; text-size-adjust: 100%; list-style: none; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); margin: 0px; padding: 0px; box-sizing: border-box; text-size-adjust: 100%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Verification email sent. Please check your email.] message&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-115">
+        <mxCell id="ymptvod_LVOYi021aetq-119" value="6. Display&amp;nbsp;&lt;ul style=&quot;border-color: var(--border-color); margin: 0px; padding: 0px; box-sizing: border-box; text-size-adjust: 100%; list-style: none; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); margin: 0px; padding: 0px; box-sizing: border-box; text-size-adjust: 100%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Verification email sent. Please check your email.] message&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-115" vertex="1">
           <mxGeometry x="195" y="349" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-120" value="4.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-115">
+        <mxCell id="ymptvod_LVOYi021aetq-120" value="4.1. Display error message" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-115" vertex="1">
           <mxGeometry x="37" y="349" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-117" target="ymptvod_LVOYi021aetq-118">
+        <mxCell id="ymptvod_LVOYi021aetq-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-117" target="ymptvod_LVOYi021aetq-118" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180.99999999999977" y="260" as="sourcePoint" />
             <mxPoint x="186.5" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-122" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-118" target="ymptvod_LVOYi021aetq-119">
+        <mxCell id="ymptvod_LVOYi021aetq-122" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-118" target="ymptvod_LVOYi021aetq-119" edge="1">
           <mxGeometry x="-0.2692" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="187" y="263" as="sourcePoint" />
             <mxPoint x="187" y="293" as="targetPoint" />
@@ -577,7 +577,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-123" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-118" target="ymptvod_LVOYi021aetq-120">
+        <mxCell id="ymptvod_LVOYi021aetq-123" value="No" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-115" source="ymptvod_LVOYi021aetq-118" target="ymptvod_LVOYi021aetq-120" edge="1">
           <mxGeometry x="-0.2075" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="187" y="263" as="sourcePoint" />
             <mxPoint x="187" y="293" as="targetPoint" />
@@ -587,10 +587,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-110" target="ymptvod_LVOYi021aetq-116">
+        <mxCell id="ymptvod_LVOYi021aetq-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-110" target="ymptvod_LVOYi021aetq-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-116" target="ymptvod_LVOYi021aetq-112">
+        <mxCell id="ymptvod_LVOYi021aetq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-116" target="ymptvod_LVOYi021aetq-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="556" y="200" />
@@ -598,64 +598,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-112" target="ymptvod_LVOYi021aetq-117">
+        <mxCell id="ymptvod_LVOYi021aetq-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-112" target="ymptvod_LVOYi021aetq-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-120" target="ymptvod_LVOYi021aetq-112">
+        <mxCell id="ymptvod_LVOYi021aetq-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="ymptvod_LVOYi021aetq-107" source="ymptvod_LVOYi021aetq-120" target="ymptvod_LVOYi021aetq-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-128" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Account Manager (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ymptvod_LVOYi021aetq-128" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Account Manager (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="860" y="30" width="750" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-129" value="User" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-128">
+        <mxCell id="ymptvod_LVOYi021aetq-129" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-128" vertex="1">
           <mxGeometry y="20" width="380" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-131" target="ymptvod_LVOYi021aetq-132">
+        <mxCell id="ymptvod_LVOYi021aetq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-131" target="ymptvod_LVOYi021aetq-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-131" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="ymptvod_LVOYi021aetq-129">
+        <mxCell id="ymptvod_LVOYi021aetq-131" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="ymptvod_LVOYi021aetq-129" vertex="1">
           <mxGeometry x="125" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-132" value="1.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-129">
+        <mxCell id="ymptvod_LVOYi021aetq-132" value="1.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-129" vertex="1">
           <mxGeometry x="91" y="84" width="109" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-133" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="ymptvod_LVOYi021aetq-129">
+        <mxCell id="ymptvod_LVOYi021aetq-133" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="ymptvod_LVOYi021aetq-129" vertex="1">
           <mxGeometry x="95.5" y="190" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-134" value="Change profile email, PW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-129">
+        <mxCell id="ymptvod_LVOYi021aetq-134" value="Change profile email, PW" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-129" vertex="1">
           <mxGeometry x="180" y="238" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-135" value="&lt;div&gt;Change profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-129">
+        <mxCell id="ymptvod_LVOYi021aetq-135" value="&lt;div&gt;Change profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-129" vertex="1">
           <mxGeometry x="10" y="240" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.489;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-133" target="ymptvod_LVOYi021aetq-135">
+        <mxCell id="ymptvod_LVOYi021aetq-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.489;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-133" target="ymptvod_LVOYi021aetq-135" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="340" as="sourcePoint" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.42;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-133" target="ymptvod_LVOYi021aetq-134">
+        <mxCell id="ymptvod_LVOYi021aetq-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.42;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-133" target="ymptvod_LVOYi021aetq-134" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="360" as="sourcePoint" />
             <mxPoint x="250" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-138" value="System" style="swimlane;html=1;startSize=20;" vertex="1" parent="ymptvod_LVOYi021aetq-128">
+        <mxCell id="ymptvod_LVOYi021aetq-138" value="System" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-128" vertex="1">
           <mxGeometry x="380" y="20" width="370" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-139" value="2. Display the profile manager page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymptvod_LVOYi021aetq-138">
+        <mxCell id="ymptvod_LVOYi021aetq-139" value="2. Display the profile manager page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-138" vertex="1">
           <mxGeometry x="129" y="90" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-128" source="ymptvod_LVOYi021aetq-132" target="ymptvod_LVOYi021aetq-139">
+        <mxCell id="ymptvod_LVOYi021aetq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-128" source="ymptvod_LVOYi021aetq-132" target="ymptvod_LVOYi021aetq-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymptvod_LVOYi021aetq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=-0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ymptvod_LVOYi021aetq-128" source="ymptvod_LVOYi021aetq-139" target="ymptvod_LVOYi021aetq-133">
+        <mxCell id="ymptvod_LVOYi021aetq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=-0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-128" source="ymptvod_LVOYi021aetq-139" target="ymptvod_LVOYi021aetq-133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="569" y="180" />
               <mxPoint x="141" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iOCjHOXJF5ji4diyWbNv-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
