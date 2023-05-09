@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T09:01:24.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="4DrA7syR964pFIJlLDG1" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-09T09:02:46.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="DK99_ggavqY-cerGH3Sc" version="21.2.9" type="github" pages="12">
   <diagram id="CLTRys49zxEiXXsSw-_P" name="Structure chart">
     <mxGraphModel dx="3127" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-19" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;メール認証再送&lt;/div&gt;Identity/Account/&lt;br&gt;ResendEmail&lt;br&gt;Confirmation&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;4.&amp;nbsp;パスワードリセット&lt;br&gt;Identity/Account/&lt;br&gt;ResetPassword&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;4.&amp;nbsp;パスワードリセット&lt;br&gt;Identity/Account/&lt;br&gt;ResetPassword&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;23.スクラム活動詳細​Activity/Detail​&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
