@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T08:23:36.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="aLokKtFzR62d5VSMmXov" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-10T08:47:12.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="k1bzY-aQWncSGffEs7VE" version="21.2.9" type="github" pages="12">
   <diagram id="CLTRys49zxEiXXsSw-_P" name="Structure chart">
-    <mxGraphModel dx="2577" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,11 +489,11 @@
         <mxCell id="pwKKbY4UZJinb_ZFK_eC-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;30.お知らせ&lt;br&gt;登録・編集・削除&lt;br&gt;Notification/&lt;br&gt;DocumentIndex&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwKKbY4UZJinb_ZFK_eC-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;8.チーム登録・​&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;修正・削除&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Team/index_origin&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-6" value="&lt;div&gt;45.関連資料​一覧&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Instruction/Document&lt;/div&gt;&lt;div&gt;Index_origin&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwKKbY4UZJinb_ZFK_eC-7" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;26.スクラム活動の新規投稿・修正・削除​&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity/MyTeam&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="1341" width="130" height="60" as="geometry" />
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-7" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;41.よくある​&lt;span style=&quot;background-color: initial;&quot;&gt;質問​一覧&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Instruction/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;QuestionIndex&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1341" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwKKbY4UZJinb_ZFK_eC-8" value="&lt;div&gt;34.投稿状況の​&lt;/div&gt;&lt;div&gt;集計結果​&lt;/div&gt;&lt;div&gt;Aggregation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="1341" width="120" height="60" as="geometry" />
@@ -510,7 +510,7 @@
         <mxCell id="pwKKbY4UZJinb_ZFK_eC-12" value="アカウント管理​&lt;br&gt;Identity/Account/&lt;br&gt;Manage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwKKbY4UZJinb_ZFK_eC-13" value="&lt;div&gt;12.チームメンバー募集&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RecruitMember/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;index_origin&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-13" value="&lt;div&gt;24.投稿案件の&lt;/div&gt;&lt;div&gt;編集・削除&lt;/div&gt;&lt;div&gt;Manage/Activity&lt;/div&gt;&lt;div&gt;Index_origin&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="1341" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwKKbY4UZJinb_ZFK_eC-14" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;メール認証再送&lt;/div&gt;Identity/Account/&lt;br&gt;ResendEmail&lt;br&gt;Confirmation&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -581,17 +581,17 @@
         <mxCell id="pwKKbY4UZJinb_ZFK_eC-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="pwKKbY4UZJinb_ZFK_eC-13" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="423" y="1340" as="sourcePoint" />
-            <mxPoint x="113" y="1289" as="targetPoint" />
+            <mxPoint x="113" y="1290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="566" y="1320" />
               <mxPoint x="113" y="1319" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwKKbY4UZJinb_ZFK_eC-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.439;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="pwKKbY4UZJinb_ZFK_eC-8" target="pwKKbY4UZJinb_ZFK_eC-4" parent="1">
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="pwKKbY4UZJinb_ZFK_eC-8" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="576" y="1351" as="sourcePoint" />
-            <mxPoint x="123" y="1299" as="targetPoint" />
+            <mxPoint x="113" y="1290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="953" y="1320" />
               <mxPoint x="113" y="1320" />
@@ -678,13 +678,111 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwKKbY4UZJinb_ZFK_eC-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.148;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pwKKbY4UZJinb_ZFK_eC-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="86" y="1619" as="sourcePoint" />
             <mxPoint x="79" y="1399" as="targetPoint" />
             <Array as="points">
               <mxPoint x="79" y="1619" />
               <mxPoint x="79" y="1549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-38" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;46.関連資料&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;​アップロード&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Instruction/Upload&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;47.関連資料&lt;br&gt;編集&lt;br&gt;Instruction/Edit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="1509" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;関連資料&lt;br&gt;削除&lt;br&gt;Notification/&lt;br&gt;Delete&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="1589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.077;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1459" as="sourcePoint" />
+            <mxPoint x="227" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="228" y="1459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.076;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1539" as="sourcePoint" />
+            <mxPoint x="227" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="228" y="1539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pwKKbY4UZJinb_ZFK_eC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1619" as="sourcePoint" />
+            <mxPoint x="228" y="1399" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="228" y="1619" />
+              <mxPoint x="228" y="1549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-44" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;42.よくある​&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;質問​一覧&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Instruction/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;QuestionIndex&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;43.&lt;/font&gt;よくある​&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;質問​一覧&lt;/span&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Instruction/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;QuestionIndex&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="1509" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-46" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;よくある​質問​一覧&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Instruction/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;QuestionIndex&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="1589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.077;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="1459" as="sourcePoint" />
+            <mxPoint x="380" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="381" y="1459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.076;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="1539" as="sourcePoint" />
+            <mxPoint x="380" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="381" y="1539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.139;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="1619" as="sourcePoint" />
+            <mxPoint x="380" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="381" y="1619" />
+              <mxPoint x="381" y="1549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-50" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;25.投稿案件の&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;編集&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Manage/Activity&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Index_origin/Edit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-51" value="投稿案件の&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;削除&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Manage/Activity&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Index_origin/Delete&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1509" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.077;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="1459" as="sourcePoint" />
+            <mxPoint x="521" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="522" y="1459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwKKbY4UZJinb_ZFK_eC-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.076;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="1539" as="sourcePoint" />
+            <mxPoint x="521" y="1401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="522" y="1539" />
             </Array>
           </mxGeometry>
         </mxCell>
