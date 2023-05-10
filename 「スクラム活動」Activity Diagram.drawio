@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T09:27:40.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="Bx0xfalVU1dKOzc2KDdf" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-10T09:41:12.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="QZ9cCNcBDcqWyyjfjNd9" version="21.2.9" type="github" pages="12">
   <diagram id="CLTRys49zxEiXXsSw-_P" name="Structure chart">
-    <mxGraphModel dx="3927" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-28" value="チーム削除&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Team/Delete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-29" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;26.スクラム活動の新規投稿・修正・削除​&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity/MyTeam&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-29" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;スクラム活動の新規投稿・修正・削除​&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity/MyTeam/?id=&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="640" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-30" value="27.自チームの活動記録の一覧&lt;br&gt;ActivityRecord/Index/&lt;br&gt;ActivityA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-39" value="&lt;div&gt;14.チームメンバ&lt;/div&gt;募集新規作成&lt;div&gt;RecruitMember/&lt;/div&gt;&lt;div&gt;Create​&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="671" y="480" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-40" value="&lt;div&gt;15.チームメンバ&lt;/div&gt;募集編集&lt;div&gt;RecruitMember/&lt;/div&gt;&lt;div&gt;Edit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gvyzlwKQ6x9KOF1J_X6z-40" value="&lt;div&gt;15.チームメンバ&lt;/div&gt;募集編集&lt;div&gt;RecruitMember/&lt;/div&gt;&lt;div&gt;Edit/?id=&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="671" y="560" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvyzlwKQ6x9KOF1J_X6z-41" value="&lt;div&gt;チームメンバ&lt;/div&gt;募集削除&lt;div&gt;RecruitMember/&lt;/div&gt;&lt;div&gt;Delete​&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -838,9 +838,6 @@
               <mxPoint x="1318" y="1496" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gFWTkHLYbg-HegzWPeBd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFWTkHLYbg-HegzWPeBd-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;User&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="70" width="250" height="30" as="geometry" />
