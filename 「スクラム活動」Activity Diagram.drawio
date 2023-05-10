@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T09:16:39.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="psaeuKXzVdH5WVMlkecv" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-10T09:24:59.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="lgYLJA552r20yN37Xt7W" version="21.2.9" type="github" pages="12">
   <diagram id="CLTRys49zxEiXXsSw-_P" name="Structure chart">
     <mxGraphModel dx="3927" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1440,9 +1440,6 @@
               <mxPoint x="141" y="180" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EAL2e32z6-bTqtZWh-i9-1" value="Phuong" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Miw0GGX4f0BpjEboO7H0-82" value="Forgot PW" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="460" width="750" height="700" as="geometry" />
