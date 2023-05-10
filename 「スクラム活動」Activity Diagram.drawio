@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T09:12:42.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="hLL2NFjdEDS8BSIjVZSf" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-10T09:13:15.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="toX0zVjRcD4rci26TKUv" version="21.2.9" type="github" pages="12">
   <diagram id="CLTRys49zxEiXXsSw-_P" name="Structure chart">
     <mxGraphModel dx="5766" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -858,7 +858,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1. User authentication" id="xGvULkPdbwHPbMbPX9kk">
-    <mxGraphModel dx="1976" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3125" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1285,7 +1285,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-107" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Resend Email Confirmation (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="865" y="890" width="750" height="650" as="geometry" />
+          <mxGeometry x="860" y="490" width="750" height="650" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-108" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-107" vertex="1">
           <mxGeometry y="20" width="380" height="630" as="geometry" />
@@ -1373,10 +1373,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-128" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Account Manager (Updating)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="860" y="30" width="750" height="770" as="geometry" />
+          <mxGeometry x="860" y="30" width="750" height="380" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-129" value="User" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-128" vertex="1">
-          <mxGeometry y="20" width="380" height="750" as="geometry" />
+          <mxGeometry y="20" width="380" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymptvod_LVOYi021aetq-129" source="ymptvod_LVOYi021aetq-131" target="ymptvod_LVOYi021aetq-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1409,7 +1409,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-138" value="System" style="swimlane;html=1;startSize=20;" parent="ymptvod_LVOYi021aetq-128" vertex="1">
-          <mxGeometry x="380" y="20" width="370" height="750" as="geometry" />
+          <mxGeometry x="380" y="20" width="370" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ymptvod_LVOYi021aetq-139" value="2. Display the profile manager page" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymptvod_LVOYi021aetq-138" vertex="1">
           <mxGeometry x="129" y="90" width="120" height="48" as="geometry" />
